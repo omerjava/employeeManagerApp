@@ -1,8 +1,12 @@
 # EmployeeManagerApp
 
-## Screnshot of Mainpage with all employees
+## Screenshot of Mainpage with all employees
 
-![Screnshot of Mainpage](https://user-images.githubusercontent.com/87907988/180889475-994acf35-5fef-43c4-8cb9-c6855d72a182.png)
+![Screenshot of Mainpage](https://user-images.githubusercontent.com/87907988/180889475-994acf35-5fef-43c4-8cb9-c6855d72a182.png)
+
+## Screenshot of Edit Form with Modal
+
+![Screenshot of Edit Form](https://user-images.githubusercontent.com/87907988/180889941-234b74a3-ba1a-40f4-aadb-e21493c55435.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
