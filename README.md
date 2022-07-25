@@ -1,5 +1,9 @@
 # EmployeeManagerApp
 
+## Screnshot of Mainpage with all employees
+
+![Screnshot of Mainpage](https://user-images.githubusercontent.com/87907988/180889475-994acf35-5fef-43c4-8cb9-c6855d72a182.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
