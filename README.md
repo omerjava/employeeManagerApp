@@ -1,8 +1,8 @@
 # EmployeeManagerApp
 
-## Screenshot of Mainpage with all employees
+## Screenshot of main page with all employees
 
-![Screenshot of Mainpage](https://user-images.githubusercontent.com/87907988/180889475-994acf35-5fef-43c4-8cb9-c6855d72a182.png)
+![Screenshot of Main Page](https://user-images.githubusercontent.com/87907988/180889475-994acf35-5fef-43c4-8cb9-c6855d72a182.png)
 
 ## Screenshot of Edit Form with Modal
 
@@ -15,6 +15,10 @@ This project is developed based on tutorial of Amigoscode here -> [Spring Boot F
 Angular is used in Frontend and Java Spring is used in Backend.
 
 As Database, MySQL is used in Backend.
+
+## Backend Repo
+
+Java Spring backend repo is -> [https://github.com/omerjava/employeeManagerAppBackend](https://github.com/omerjava/employeeManagerAppBackend)
 
 ## Development server
 
