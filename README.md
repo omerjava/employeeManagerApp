@@ -8,7 +8,13 @@
 
 ![Screenshot of Edit Form](https://user-images.githubusercontent.com/87907988/180889941-234b74a3-ba1a-40f4-aadb-e21493c55435.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+## Reference
+
+This project is developed based on tutorial of Amigoscode here -> [Spring Boot Full Stack with Angular | Full Course](https://www.youtube.com/watch?v=Gx4iBLKLVHk)
+
+Angular is used in Frontend and Java Spring is used in Backend.
+
+As Database, MySQL is used in Backend.
 
 ## Development server
 
@@ -33,3 +39,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
